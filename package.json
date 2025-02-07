@@ -1,0 +1,22 @@
+{
+  "name": "devtree",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto con express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roz-optimus/DevTree.git"
+  },
+  "author": "Royner Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roz-optimus/DevTree/issues"
+  },
+  "homepage": "https://github.com/Roz-optimus/DevTree#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
