@@ -4,6 +4,7 @@ import type { Request, Response} from "express";
 import slug from "slug";
 import { checkPassword, hashPassword } from "../utils/auth";
 
+//Royner garcia
 export const createAccount = async (req: Request, res: Response) => {
 
    
